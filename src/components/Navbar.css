@@ -1,0 +1,18 @@
+button {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 10px 30px;
+  transition: 0.5s;
+  position: relative;
+  font-size: 12px;
+  background: #333;
+  border: none;
+  color: #fff;
+}
+
+button:hover {
+  letter-spacing: 0.25em;
+  background: #ff1867;
+  color: white;
+  /* box-shadow: 0 0 45px #ff1867; */
+}

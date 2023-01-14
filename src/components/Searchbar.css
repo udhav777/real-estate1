@@ -1,0 +1,10 @@
+.Search-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100px;
+}
+
+select {
+  height: 30px;
+}
